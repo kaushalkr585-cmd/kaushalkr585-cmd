@@ -18,7 +18,6 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
 
 ---
 
-<!-- ABOUT ME + PIXEL CAT ON RIGHT -->
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -29,12 +28,8 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
         <li>✏️ I like to do <strong>drawing</strong></li>
         <li>🐱🐶 I love <strong>cats and dogs</strong></li>
         <li>🌱 Always learning — one bug at a time!</li>
-        <li>📸 Check out my Instagram:
-          <a href="https://www.instagram.com/_mystryslayer_?igsh=MWQxNm8yYWI2cXl0NQ==">@_mystryslayer_</a> 🎴
-        </li>
-        <li>📬 Reach out to me:
-          <a href="mailto:YOUR_EMAIL">kaushalkr.585@gmail.com</a>
-        </li>
+        <li>📸 Check out my Instagram: <a href="https://www.instagram.com/_mystryslayer_?igsh=MWQxNm8yYWI2cXl0NQ==">@_mystryslayer_</a> 🎴</li>
+        <li>📬 Reach out to me: <a href="mailto:kaushalkr.585@gmail.com">kaushalkr.585@gmail.com</a></li>
       </ul>
       <br/>
       <a href="https://www.instagram.com/_mystryslayer_?igsh=MWQxNm8yYWI2cXl0NQ==">
@@ -44,12 +39,11 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
         <img src="https://img.shields.io/badge/GitHub-FF6EC7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
-    <!-- PIXEL CAT ON THE RIGHT SIDE -->
-   <div align="left">
-  <img src="https://path-to-your-bird-gif.gif" width="50" />
-  <br>
-  <img src="https://path-to-your-cat-gif.gif" width="100" />
-</div>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="180" alt="Pixel Cat" />
+      <br/><br/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="180" alt="Pixel Cat Walking" />
+    </td>
   </tr>
 </table>
 
@@ -100,10 +94,8 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
 ## 📊 GitHub Stats
 
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=kaushalkr585-cmd&show_icons=true&hide_border=true&bg_color=0D0015&title_color=FF6EC7&icon_color=A855F7&text_color=ffffff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalkr585-cmd&hide_border=true&background=0D0015&ring=FF6EC7&fire=A855F7&currStreakLabel=FF6EC7&sideLabels=A855F7&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff" width="48%" />
-
 </div>
 
 <div align="center">
@@ -112,7 +104,6 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
 
 ---
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
 <div align="center">
 
 ### 🐍 Watch my contributions get eaten!
