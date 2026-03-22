@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kaushal+%F0%9F%91%BE;Welcome+to+my+GitHub+%F0%9F%8E%AE;Code+%7C+Create+%7C+Conquer+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<!-- PIXEL CITY BANNER GIF -->
+<!-- COLORFUL PIXEL CITY BANNER — purple/pink sunset -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Pixel Art City" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Pixel Art City" />
 </div>
 
 <br/>
@@ -22,41 +22,41 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h2>about me</h2>
+      <h2>🌸 about me</h2>
       <ul>
         <li>🛠️ I love to <strong>build projects</strong></li>
         <li>🎬 I love <strong>video editing</strong></li>
         <li>✏️ I like to do <strong>drawing</strong></li>
         <li>🐱🐶 I love <strong>cats and dogs</strong></li>
-        <li>🚀 Grinding <strong>TCS NQT · Infosys · Accenture</strong></li>
         <li>🌱 Always learning — one bug at a time!</li>
         <li>📸 Check out my Instagram:
           <a href="https://www.instagram.com/_mystryslayer_?igsh=MWQxNm8yYWI2cXl0NQ==">@_mystryslayer_</a> 🎴
         </li>
         <li>📬 Reach out to me:
-          <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
+          <a href="mailto:kaushalkr.585@gmail.com">YOUR_EMAIL</a>
         </li>
       </ul>
       <br/>
       <a href="https://www.instagram.com/_mystryslayer_?igsh=MWQxNm8yYWI2cXl0NQ==">
         <img src="https://img.shields.io/badge/Instagram-FF6EC7?style=for-the-badge&logo=instagram&logoColor=white"/>
-      </a>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-        <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
       <a href="https://github.com/kaushalkr585-cmd">
         <img src="https://img.shields.io/badge/GitHub-FF6EC7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/4e/b5/d0/4eb5d016cf75c4ba04bdbb45bdc16ebf.gif" width="220" alt="Pixel Art Character"/>
+      <!-- Colorful pixel art coding character GIF -->
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="Pixel Art Coding Character"/>
     </td>
   </tr>
 </table>
 
-<!-- PIXEL CAT GIF — just like Gnanavel's profile -->
-<div align="left">
-  <img src="https://media.githubusercontent.com/media/apoorvtyagi/apoorvtyagi/main/Assets/cat.gif" width="200" alt="Pixel Cat" />
+<!-- PIXEL CAT GIF -->
+<div align="left" style="margin-top: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" alt="Pixel Cat Walking" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="80" alt="Pixel Cat" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" alt="Pixel Cat Walking" />
 </div>
 
 ---
