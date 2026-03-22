@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kaushal+%F0%9F%91%BE;Welcome+to+my+GitHub+%F0%9F%8E%AE;Code+%7C+Create+%7C+Conquer+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<!-- COLORFUL PIXEL CITY BANNER — purple/pink sunset -->
+<!-- COLORFUL PIXEL CITY BANNER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Pixel Art City" />
 </div>
@@ -18,7 +18,7 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
 
 ---
 
-<!-- ABOUT ME + PIXEL CHARACTER — SPLIT LAYOUT -->
+<!-- ABOUT ME + PIXEL CAT ON RIGHT -->
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -33,31 +33,25 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
           <a href="https://www.instagram.com/_mystryslayer_?igsh=MWQxNm8yYWI2cXl0NQ==">@_mystryslayer_</a> 🎴
         </li>
         <li>📬 Reach out to me:
-          <a href="mailto:kaushalkr.585@gmail.com">YOUR_EMAIL</a>
+          <a href="mailto:YOUR_EMAIL">kaushalkr.585@gmail.com</a>
         </li>
       </ul>
       <br/>
       <a href="https://www.instagram.com/_mystryslayer_?igsh=MWQxNm8yYWI2cXl0NQ==">
         <img src="https://img.shields.io/badge/Instagram-FF6EC7?style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>
       <a href="https://github.com/kaushalkr585-cmd">
         <img src="https://img.shields.io/badge/GitHub-FF6EC7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
+    <!-- PIXEL CAT ON THE RIGHT SIDE -->
     <td width="45%" align="center" valign="middle">
-      <!-- Colorful pixel art coding character GIF -->
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="Pixel Art Coding Character"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="200" alt="Pixel Cat" />
+      <br/><br/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" alt="Pixel Cat Walking" />
     </td>
   </tr>
 </table>
-
-<!-- PIXEL CAT GIF -->
-<div align="left" style="margin-top: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" alt="Pixel Cat Walking" />
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="80" alt="Pixel Cat" />
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" alt="Pixel Cat Walking" />
-</div>
 
 ---
 
