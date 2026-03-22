@@ -45,11 +45,11 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
       </a>
     </td>
     <!-- PIXEL CAT ON THE RIGHT SIDE -->
-    <td width="45%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="200" alt="Pixel Cat" />
-      <br/><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" alt="Pixel Cat Walking" />
-    </td>
+   <div align="left">
+  <img src="https://path-to-your-bird-gif.gif" width="50" />
+  <br>
+  <img src="https://path-to-your-cat-gif.gif" width="100" />
+</div>
   </tr>
 </table>
 
