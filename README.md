@@ -3,14 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kaushal+%F0%9F%91%BE;Welcome+to+my+GitHub+%F0%9F%8E%AE;Code+%7C+Create+%7C+Conquer+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<!-- COLORFUL PIXEL CITY BANNER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Pixel Art City" />
-</div>
-
-<br/>
-
----
 
 ## Welcome!
 
