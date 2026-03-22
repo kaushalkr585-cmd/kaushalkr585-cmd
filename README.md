@@ -40,9 +40,11 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
       </a>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="180" alt="Pixel Cat" />
+      <!-- EXACT hummingbird GIF from Gnanavel's profile -->
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4MDZ4ZWEzaG1sbWs2YWJpZWp4b3I5c3AxYnNwZXdxYm5hbHgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" width="80" alt="Hummingbird" />
       <br/><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="180" alt="Pixel Cat Walking" />
+      <!-- EXACT orange pixel cat GIF from Gnanavel's profile -->
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" width="200" alt="Pixel Cat" />
     </td>
   </tr>
 </table>
