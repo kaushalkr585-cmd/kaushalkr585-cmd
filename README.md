@@ -16,7 +16,7 @@ Hey there! My name is **Kaushal Kumar**, studying **Computer Science**. Besides 
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h2>🌸 about me</h2>
+      <h2>About me</h2>
       <ul>
         <li>🛠️ I love to <strong>build projects</strong></li>
         <li>🎬 I love <strong>video editing</strong></li>
